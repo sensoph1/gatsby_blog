@@ -3,7 +3,7 @@ module.exports = {
     title: `JeremyBarkley.com`,
     author: `Jeremy Barkley`,
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `unknown.com`,
+    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `zombiestiltskin`,
     },
